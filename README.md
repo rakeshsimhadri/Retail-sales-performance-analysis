@@ -1,72 +1,78 @@
 # Retail Sales Performance Analysis
 
 ## 📌 Project Overview
-This project analyzes the retail sales performance of a multi-channel business using Excel.  
-The dataset includes two years of financial information (2021–2022) across multiple product categories and sales modes.
-
-The goal is to understand key business metrics including sales, profit, expenditure, and quantity sold — and to uncover trends that support better decision-making.
+This project analyzes the retail sales performance of a multi-channel business using Excel for the years 2021–2022.  
+It includes KPI metrics, year-wise comparison, monthly financial trends, category-wise insights, and sales mode distribution.
 
 ---
 
 ## 🎯 Business Objective
-The company wants to identify:
-- Year-wise performance differences  
-- Monthly sales, profit & expenditure trends  
-- High-performing and low-performing product categories  
-- Contribution of different sales modes (Online, Direct, Wholesale)  
-- Areas where expenditures are increasing  
-- Opportunities to improve profitability  
+To provide management with a unified dashboard that answers:
+
+- Which year performed better in terms of sales, profit, and expenditure?
+- What monthly patterns affect profit and sales performance?
+- Which product categories contribute the most to revenue?
+- How sales channels (Online, Direct, Wholesale) impact total sales?
+- Where is expenditure increasing disproportionately?
 
 ---
 
-## 📊 Dashboard Features
-The Excel dashboard includes:
+## 📊 Dashboard (PDF Output)
 
-### **KPI Cards**
-- Total Sales  
-- Total Expenditure  
-- Total Profit  
-- Total Quantity Sold  
+The complete Excel dashboard is available in PDF format:
 
-### **Visual Insights**
-- Year-wise Sales, Profit, Expenditure comparison  
-- Monthly financial trends  
-- Category-wise performance chart  
-- Sales distribution by mode  
-- Interactive slicers (Year, Category)
+👉 **[Download Dashboard](./Sales_Dashboard.pdf)**
 
----
+### 📈 Dashboard Highlights
+- KPI Cards:
+  - **Total Sales:** 401,412  
+  - **Total Expenditure:** 332,504  
+  - **Total Profit:** 68,908  
+  - **Total Quantity Sold:** 4,280  
 
-## 🧠 Key Insights
-- 2022 outperformed 2021 in total sales and overall financial contribution  
-- Monthly trends highlight seasonal spikes and drops  
-- Certain categories generate higher expenditure than profit  
-- Direct and Online modes contribute the largest share of total sales  
+- **Year-wise Performance:**  
+  2021 vs 2022 comparison of Sales, Expenditure & Profit
+
+- **Monthly Financial Trends:**  
+  Line chart showing seasonal fluctuations
+
+- **Sales Distribution by Modes:**  
+  - Online: 33%  
+  - Direct: 52%  
+  - Wholesale: 15%
+
+- **Category-wise Financial Comparison:**  
+  Sales, Expenditure, Profit for five product categories
+
+- **Interactive Filters:**  
+  Year selector & category selector (in Excel)
 
 ---
 
 ## 📁 Files in This Repository
-- **Sales data.xlsx** – Raw dataset  
-- **Dashboard** – Interactive Excel dashboard (inside workbook)  
-- **Business_Problem.pdf** – One-page problem statement  
+- `Sales data.xlsx` — Raw dataset  
+- `Sales_Dashboard.pdf` — PDF output of the dashboard  
+- `README.md` — Documentation  
+- `Business_Problem.pdf` — Business problem statement  
 
 ---
 
 ## 🛠 Tools Used
 - Microsoft Excel  
-- Pivot Tables  
-- Pivot Charts  
+- Pivot Tables & Pivot Charts  
 - Slicers  
+- Excel formulas  
 - Conditional Formatting  
 
 ---
 
 ## 📌 Conclusion
-This dashboard enables management to:
+This dashboard helps the business:
 - Identify profit leakage  
-- Improve pricing & discount strategy  
-- Optimize category performance  
-- Make data-driven business decisions  
+- Understand category and channel performance  
+- Forecast demand effectively  
+- Optimize pricing and discount strategy  
+- Make data-driven decisions  
 
 ---
 
